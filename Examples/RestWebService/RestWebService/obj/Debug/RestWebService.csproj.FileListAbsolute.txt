@@ -1,0 +1,12 @@
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\RestWebService.dll.config
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\RestWebService.dll
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\RestWebService.pdb
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\Company.dll
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\DAL.dll
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\ErrorHandler.dll
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\Company.pdb
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\DAL.pdb
+D:\Code\Examples\REST\RestWebService\RestWebService\bin\Debug\ErrorHandler.pdb
+D:\Code\Examples\REST\RestWebService\RestWebService\obj\Debug\RestWebService.csprojResolveAssemblyReference.cache
+D:\Code\Examples\REST\RestWebService\RestWebService\obj\Debug\RestWebService.dll
+D:\Code\Examples\REST\RestWebService\RestWebService\obj\Debug\RestWebService.pdb

@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Demo1";
+}
+
+<h2>Demo1 - Getting objects</h2>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $.get('@Url.Action("Demo1","Services")', {Param1:12,Param2:'John'}, function (data) {
+            console.log(data);
+        });
+    });
+</script>

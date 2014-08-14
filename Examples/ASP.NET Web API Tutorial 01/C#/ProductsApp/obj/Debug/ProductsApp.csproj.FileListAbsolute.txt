@@ -1,0 +1,13 @@
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\ProductsApp.dll
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\ProductsApp.pdb
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\Newtonsoft.Json.dll
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.dll
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\Newtonsoft.Json.xml
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.xml
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\obj\Debug\ProductsApp.dll
+D:\Code\Examples\REST\Getting Started with ASP.NET Web API\C#\ProductsApp\obj\Debug\ProductsApp.pdb

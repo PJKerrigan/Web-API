@@ -1,0 +1,12 @@
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\TestHarness.exe.config
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\TestHarness.exe
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\TestHarness.pdb
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\Company.dll
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\DAL.dll
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\ErrorHandler.dll
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\Company.pdb
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\DAL.pdb
+D:\Code\Examples\REST\RestWebService\TestHarness\bin\Debug\ErrorHandler.pdb
+D:\Code\Examples\REST\RestWebService\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+D:\Code\Examples\REST\RestWebService\TestHarness\obj\Debug\TestHarness.exe
+D:\Code\Examples\REST\RestWebService\TestHarness\obj\Debug\TestHarness.pdb

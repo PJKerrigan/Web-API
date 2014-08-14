@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Demo2";
+}
+
+<h2>Demo2 - Putting objects</h2>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var client = {
+            name: 'John',
+            surname: 'Panagopoulos',
+            age: 37,
+            values:[11,22,111,2,87]
+        };
+        $.get('@Url.Action("Demo2","Services")',$.toDictionary({ id: 11, client: client }), function (data) {
+            console.log(data);
+        });
+        $.ajax({
+            url: '@Url.Action("Demo2Post","Services")',
+            type: "POST",
+            data: $.toDictionary({ id: 11, client: client }),
+            success: function (data) {
+                console.log(data);
+            },
+            cache: false
+        });
+    });
+</script>

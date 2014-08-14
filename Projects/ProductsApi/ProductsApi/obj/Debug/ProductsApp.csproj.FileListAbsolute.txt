@@ -1,0 +1,13 @@
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\ProductsApp.dll
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\ProductsApp.pdb
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\Newtonsoft.Json.dll
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\System.Net.Http.Formatting.dll
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\System.Web.Http.dll
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\System.Web.Http.WebHost.dll
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\Newtonsoft.Json.xml
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\System.Net.Http.Formatting.xml
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\System.Web.Http.xml
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\bin\System.Web.Http.WebHost.xml
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\obj\Debug\ProductsApp.dll
+D:\Code\Web\Development\ASP.NET\Projects\ProductsApi\ProductsApi\obj\Debug\ProductsApp.pdb

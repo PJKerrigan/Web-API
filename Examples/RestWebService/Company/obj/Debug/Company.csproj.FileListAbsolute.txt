@@ -1,0 +1,5 @@
+D:\Code\Examples\REST\RestWebService\Company\bin\Debug\Company.dll
+D:\Code\Examples\REST\RestWebService\Company\bin\Debug\Company.pdb
+D:\Code\Examples\REST\RestWebService\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+D:\Code\Examples\REST\RestWebService\Company\obj\Debug\Company.dll
+D:\Code\Examples\REST\RestWebService\Company\obj\Debug\Company.pdb
